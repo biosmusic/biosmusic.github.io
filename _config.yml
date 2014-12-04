@@ -1,0 +1,16 @@
+# Site settings
+title: Bios
+email: info@biosmusic.com
+description: > # this means to ignore newlines until "baseurl:"
+  Bios are an Italian rock band formed in 1999 by Giordano Bruni, Gabriele
+  Motta, Francesco Negri and Stefano Parma.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.biosmusic.com" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+github_username:  biosmusic
+
+# Build settings
+markdown: kramdown
+
+# Other settings
+permalink: /:year/:title
